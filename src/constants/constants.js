@@ -136,7 +136,7 @@ export const projects = [
   },
   {
     title: 'Frost Company',
-    description: "An example of a website for a company which make cars. In this project I wanted to focus on good layout. I used Bootstrap to add good styling features to the project. Also, there is a map that shows exact location.",
+    description: "An example of a website for a company which makes cars. In this project I wanted to focus on good layout. I used Bootstrap to add good styling features to the project. Also, there is a map that shows exact location.",
       image: '/images/FrostCompany.png',
       tags: ['JavaScript', 'Bootstrap'],
     source: 'https://macieytm.github.io/Frost-Company',
