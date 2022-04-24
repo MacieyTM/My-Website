@@ -1,6 +1,16 @@
 import styled from 'styled-components';
 
 export const Button = styled.div`
+  @media screen and (max-width: 1300px) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+    font-size: 7rem;
+    z-index: 1;
+    color: white;
+  }
+
   @media screen and (min-width: 1300px) {
     position: fixed;
     /* width: 100%; */
