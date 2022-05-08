@@ -21,7 +21,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>&copy; Copyright 2022 | M. Grochowski</Slogan>
+          <Slogan>&copy; Copyright 2022 | Maciej. Grochowski</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/MacieyTM" target="_blank">
