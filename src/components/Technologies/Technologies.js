@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologie</SectionTitle>
     <SectionText><br/>
-      Front-End: HTML, CSS, Sass, Bootstrap, JavaScript, React, React Hooks, React Router, Redux, Styled Components, Next.js<br/><br/>
+      Front-End: HTML, CSS, Sass, Bootstrap, JavaScript, React, React Hooks, React Router, Redux, Styled Components, Next.js, TypeScript, Angular, Ionic<br/><br/>
       Back-End: Java, Python, C#, C++, C, MySQL, Firebase<br/><br/>
       IDE: Visual Studio Code, IntelliJ IDEA, PyCharm, Visual Studio 2019
     </SectionText>
