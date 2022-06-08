@@ -73,18 +73,17 @@ const Timeline = () => {
         lat
         <br />
         <br />
-        Jestem studentem informatyki czwartego semestru Politechniki Krakowskiej
-        na wydziale Informatyki i Telekomunikacji.
+        Jestem Junior Front-End Software Developerem w firmie RBC Bearings (2 miesiące komercyjnego doświadczenia)
         <br />
         <br />
         Zaczynałem od języka C/C++, potem języki JavaScript, Python, C#, Java.
-        Obecnie programuję głównie w technologii React.
+        Obecnie programuję głównie w technologiach Angular/React/Ionic.
         <br />
         <br />
-        Pochodzę z Żywca, ale od rozpoczęcia studiów mieszkam w Krakowie.
+        Pochodzę z Żywca i obecnie tam mieszkam, ale mogę dojeżdżać do biura w Krakowie.
         <br />
         <br />
-        Mogę pracować stacjonarnie, hybrydowo oraz zdalnie zarówno na pełny jak
+        Mogę pracować hybrydowo oraz zdalnie zarówno na pełny jak
         i niepełny etat.
         <br />
         <br />
