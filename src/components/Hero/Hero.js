@@ -13,7 +13,7 @@ const Hero = (props) => (
           stronie portfolio!
         </SectionTitle>
         <SectionText>
-        Maciej Grochowski | Junior Front-End Developer w technologii JavaScript/React
+        Maciej Grochowski | Junior Front-End Developer w technologii Angular/React/Ionic
         </SectionText>
         <a href="https://macieytm.github.io/About-Me" target="_blank">
         <Button onClick={props.handleClick}>Moja wizytówka</Button></a>
