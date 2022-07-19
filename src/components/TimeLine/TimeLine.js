@@ -73,7 +73,7 @@ const Timeline = () => {
         lat
         <br />
         <br />
-        Jestem Junior Front-End Software Developerem w firmie RBC Bearings (2 miesiące komercyjnego doświadczenia)
+        Jestem Junior Front-End Software Developerem w firmie RBC Bearings (5 miesięcy komercyjnego doświadczenia)
         <br />
         <br />
         Zaczynałem od języka C/C++, potem języki JavaScript, Python, C#, Java.
