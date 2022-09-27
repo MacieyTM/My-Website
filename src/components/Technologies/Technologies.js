@@ -8,9 +8,9 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologie</SectionTitle>
     <SectionText><br/>
-      Front-End: HTML, CSS, Sass, Bootstrap, JavaScript, React, React Hooks, React Router, Redux, Styled Components, Next.js, TypeScript, Angular, Ionic<br/><br/>
-      Back-End: Java, Python, C#, C++, C, MySQL, Firebase<br/><br/>
-      IDE: Visual Studio Code, IntelliJ IDEA, PyCharm, Visual Studio 2019
+      Front-End: HTML, CSS, Sass, Bootstrap, JavaScript, React, React Hooks, React Router, Redux, Styled Components, Next.js, TypeScript, Angular, RxJS, NgRx, Ionic<br/><br/>
+      Back-End: Java, Python, C#, C++, C, MySQL, Firebase, Swagger<br/><br/>
+      IDE: Visual Studio Code, IntelliJ IDEA, PyCharm, Visual Studio
     </SectionText>
     <List>
       <ListItem>
@@ -21,7 +21,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Najczęściej używane:<br />
-            React.js
+            Angular, React, Ionic
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -33,7 +33,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Najczęściej używane:<br />
-            Firebase
+            Firebase, Swagger
           </ListParagraph>
         </ListContainer>
       </ListItem>
