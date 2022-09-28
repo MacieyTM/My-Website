@@ -10,7 +10,7 @@ const Technologies = () =>  (
     <SectionText><br/>
       Front-End: HTML, CSS, Sass, Bootstrap, JavaScript, React, React Hooks, React Router, Redux, Styled Components, Next.js, TypeScript, Angular, RxJS, NgRx, Ionic<br/><br/>
       Back-End: Java, Python, C#, C++, C, MySQL, Firebase, Swagger<br/><br/>
-      IDE: Visual Studio Code, IntelliJ IDEA, PyCharm, Visual Studiw
+      IDE: Visual Studio Code, IntelliJ IDEA, PyCharm, Visual Studio
     </SectionText>
     <List>
       <ListItem>
