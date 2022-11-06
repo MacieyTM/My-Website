@@ -73,7 +73,7 @@ const Timeline = () => {
         lat
         <br />
         <br />
-        Front-End Software Developer oraz Mobile Engineer (pół roku komercyjnego doświadczenia)
+        Front-End Software Developer oraz Mobile Engineer (7 miesięcy komercyjnego doświadczenia)
         <br />
         <br />
         Zaczynałem od języka C/C++, potem języki JavaScript, Python, C#, Java.
@@ -108,7 +108,7 @@ const Timeline = () => {
         (2019)
         <br />
         <br />- Twórca filmów w jakości 4K (2160p) (podgląd{' '}
-        <GothicLink href='https://www.youtube.com/channel/UCLUrR7bodWNdt9G9YWeCIWA' target='_blank'>
+        <GothicLink href='https://www.youtube.com/@MacieyTM' target='_blank'>
           tutaj
         </GothicLink>
         ) (2014-2021)

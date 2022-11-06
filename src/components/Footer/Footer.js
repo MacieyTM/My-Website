@@ -33,7 +33,7 @@ const Footer = () => {
           <SocialIcons href="https://twitter.com/MacieyTM" target="_blank">
             <AiOutlineTwitter size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.youtube.com/channel/UCLUrR7bodWNdt9G9YWeCIWA" target="_blank">
+          <SocialIcons href="https://www.youtube.com/@MacieyTM" target="_blank">
             <AiFillYoutube size="3rem" />
           </SocialIcons>
         </SocialContainer>
