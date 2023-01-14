@@ -95,7 +95,7 @@ const Timeline = () => {
       </SectionTitle>
       <SectionText>
         <br />- Współtwórca i główny betatester modyfikacji gry "Gothic 2:
-        Ucieczka" (podgląd{' '}
+        Ucieczk" (podgląd{' '}
         <GothicLink href='https://g2ucieczka.pl' target='_blank'>
           tutaj
         </GothicLink>
