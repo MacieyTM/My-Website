@@ -69,11 +69,10 @@ const Timeline = () => {
       <SectionTitle>O mnie</SectionTitle>
       <SectionText>
         <br />
-        Maciej&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grochowski&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21
-        lat
+        Maciej&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grochowski&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22 lata
         <br />
         <br />
-        Front-End Software Developer oraz Mobile Engineer (10 miesięcy komercyjnego doświadczenia)
+        Front-End Software Developer oraz Mobile Engineer (11 miesięcy komercyjnego doświadczenia)
         <br />
         <br />
         Zaczynałem od języka C/C++, potem języki JavaScript, Python, C#, Java.
