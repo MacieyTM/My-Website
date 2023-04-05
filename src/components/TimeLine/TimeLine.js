@@ -72,7 +72,7 @@ const Timeline = () => {
         Maciej&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grochowski&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22 lata
         <br />
         <br />
-        Front-End Software Developer oraz Mobile Engineer (11 miesięcy komercyjnego doświadczenia)
+        Front-End Software Developer oraz Mobile Engineer (rok komercyjnego doświadczenia)
         <br />
         <br />
         Zaczynałem od języka C/C++, potem języki JavaScript, Python, C#, Java.
