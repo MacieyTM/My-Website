@@ -14,17 +14,17 @@ const Header = () =>  (
     </Div1>
     <Div2>
       <li>
-        <Link href="#projects">
+        <Link href="#projects" legacyBehavior>
           <NavLink>Projekty</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#tech">
+        <Link href="#tech" legacyBehavior>
           <NavLink>Technologie</NavLink>
         </Link>
       </li>        
       <li>
-        <Link href="#about">
+        <Link href="#about" legacyBehavior>
           <NavLink>O mnie</NavLink>
         </Link>
       </li>        
