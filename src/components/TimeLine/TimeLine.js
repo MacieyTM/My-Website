@@ -69,21 +69,24 @@ const Timeline = () => {
       <SectionTitle>O mnie</SectionTitle>
       <SectionText>
         <br />
-        Maciej&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grochowski&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22 lata
+        Maciej&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grochowski&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22
+        lata
         <br />
         <br />
-        Front-End Software Developer oraz Mobile Engineer (rok komercyjnego doświadczenia)
+        Front-End Software Developer oraz Mobile Application Engineer (1 rok i 5
+        miesięcy komercyjnego doświadczenia)
         <br />
         <br />
         Zaczynałem od języka C/C++, potem języki JavaScript, Python, C#, Java.
         Obecnie programuję głównie w technologiach Angular/React/Ionic.
         <br />
         <br />
-        Pochodzę z Żywca i obecnie tam mieszkam, ale mogę dojeżdżać do biura w Krakowie.
+        Pochodzę z Żywca i obecnie tam mieszkam, ale mogę dojeżdżać do biura w
+        Krakowie.
         <br />
         <br />
-        Mogę pracować hybrydowo oraz zdalnie zarówno na pełny jak
-        i niepełny etat.
+        Mogę pracować hybrydowo oraz zdalnie zarówno na pełny jak i niepełny
+        etat.
         <br />
         <br />
       </SectionText>
@@ -93,6 +96,13 @@ const Timeline = () => {
         Co jeszcze?
       </SectionTitle>
       <SectionText>
+        <br />- Front-End Software Developer oraz Mobile Application Engineer w
+        firmie RBC Bearings(podgląd{' '}
+        <GothicLink href='https://rbcpolska.pl' target='_blank'>
+          tutaj
+        </GothicLink>
+        ) (2022-obecnie)
+        <br />
         <br />- Współtwórca i główny betatester modyfikacji gry "Gothic 2:
         Ucieczka" (podgląd{' '}
         <GothicLink href='https://g2ucieczka.pl' target='_blank'>
