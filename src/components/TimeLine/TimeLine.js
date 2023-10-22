@@ -73,7 +73,7 @@ const Timeline = () => {
         lata
         <br />
         <br />
-        Front-End Software Developer oraz Mobile Application Engineer (1 rok i 5
+        Front-End Software Developer oraz Mobile Application Engineer (1 rok i 6
         miesięcy komercyjnego doświadczenia)
         <br />
         <br />
@@ -82,7 +82,7 @@ const Timeline = () => {
         <br />
         <br />
         Pochodzę z Żywca i obecnie tam mieszkam, ale mogę dojeżdżać do biura w
-        Krakowie.
+        Krakowie lub w Bielsku-Białej.
         <br />
         <br />
         Mogę pracować hybrydowo oraz zdalnie zarówno na pełny jak i niepełny
