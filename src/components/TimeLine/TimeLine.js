@@ -73,7 +73,7 @@ const Timeline = () => {
         lata
         <br />
         <br />
-        Front-End Software Developer oraz Mobile Application Engineer (1 rok i 8
+        Front-End Software Developer oraz Mobile Application Engineer (1 rok i 10
         miesięcy komercyjnego doświadczenia)
         <br />
         <br />
