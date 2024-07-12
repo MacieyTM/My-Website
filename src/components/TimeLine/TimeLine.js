@@ -73,7 +73,7 @@ const Timeline = () => {
         lata
         <br />
         <br />
-        Front-End Software Developer oraz Mobile Application Engineer (2 lata komercyjnego doświadczenia)
+        Front-End Software Developer oraz Mobile Application Engineer (2 lata i 3 miesiące komercyjnego doświadczenia)
         <br />
         <br />
         Zaczynałem od języka C/C++, potem języki JavaScript, Python, C#, Java.
