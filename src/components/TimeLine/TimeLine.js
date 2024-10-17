@@ -96,7 +96,7 @@ const Timeline = () => {
       </SectionTitle>
       <SectionText>
         <br />- Front-End Software Developer oraz Mobile Application Engineer w
-        firmie RBC Bearings(podgląd{' '}
+        firmie RBC Bearings (podgląd{' '}
         <GothicLink href='https://rbcpolska.pl' target='_blank'>
           tutaj
         </GothicLink>
