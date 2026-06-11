@@ -69,8 +69,8 @@ const Timeline = () => {
       <SectionTitle>O mnie</SectionTitle>
       <SectionText>
         <br />
-        Maciej&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grochowski&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24
-        lata
+        Maciej&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grochowski&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25
+        lat
         <br />
         <br />
         Fullstack Software Developer oraz Mobile Application Engineer (ponad 4 lata komercyjnego doświadczenia)
