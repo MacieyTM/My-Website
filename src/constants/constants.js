@@ -160,4 +160,8 @@ export const TimeLineData = [
   { year: 2019, text: 'Wolontariusz w POLARIS - OPP'},
   { year: 2020, text: 'Laureat Złotego Indeksu Politechniki Krakowskiej'},
   { year: 2020, text: 'Laureat Złotego Indeksu Politechniki Śląskiej'},
+  { year: 2020, text: 'Podjęcie studiów informatycznych na PK (WIiT)'},
+  { year: 2022, text: 'Rozpoczęcie kariery zawodowej - zaczęcie pracy komercyjnej'},
+  { year: 2024, text: 'Inżynier informatyki na 5.0'},
+  { year: 2026, text: '4 lata kom. dośw. w firmie RBC Polska sp. z o.o.'},
 ];
