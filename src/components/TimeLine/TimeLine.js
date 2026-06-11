@@ -97,7 +97,7 @@ const Timeline = () => {
       <SectionText>
         <br />- Fullstack Software Developer oraz Mobile Application Engineer w
         firmie RBC Bearings (podgląd{' '}
-        <GothicLink href='https://rbcpolska.pl' target='_blank'>
+        <GothicLink href='https://www.rbcpolska.pl/' target='_blank'>
           tutaj
         </GothicLink>
         ) (2022-2026)
