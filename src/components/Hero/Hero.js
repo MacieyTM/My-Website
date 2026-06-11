@@ -13,7 +13,7 @@ const Hero = (props) => (
           stronie portfolio!
         </SectionTitle>
         <SectionText>
-        Maciej Grochowski | Front-End Developer oraz Mobile Engineer w technologii Angular/React/Ionic
+        Maciej Grochowski | Fullstack Developer oraz Mobile Engineer w technologiach Angular/React/Ionic/React Native
         </SectionText>
         <a href="https://macieytm.github.io/About-Me" target="_blank">
         <Button onClick={props.handleClick}>Moja wizytówka</Button></a>
