@@ -96,7 +96,7 @@ const Timeline = () => {
       </SectionTitle>
       <SectionText>
         <br />- Fullstack Software Developer oraz Mobile Application Engineer w
-        firmie RBC Bearings (podgląd{' '}
+        firmie RBC Bearings Polska sp. z o.o. (podgląd{' '}
         <GothicLink href='https://www.rbcpolska.pl/' target='_blank'>
           tutaj
         </GothicLink>
