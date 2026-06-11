@@ -10,7 +10,7 @@ const Technologies = () =>  (
     <SectionText><br/>
       Front-End: HTML, CSS, Sass, Bootstrap, JavaScript, React, React Hooks, React Router, Redux, Styled Components, Next.js, TypeScript, Angular, RxJS, NgRx, Ionic, React Native, React Native Paper<br/><br/>
       Back-End: Java, Python, C#, C++, C, MySQL, Firebase, Swagger<br/><br/>
-      IDE: Visual Studio Code, IntelliJ IDEA, PyCharm, Visual Studio
+      IDE: Visual Studio Code, IntelliJ IDEA, PyCharm, Visual Studio, Android Studio, Xcode
     </SectionText>
     <List>
       <ListItem>
@@ -21,7 +21,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Najczęściej używane:<br />
-            Angular, React, Ionic, React Native
+            Angular, React, Ionic, React Native, Android Studio
           </ListParagraph>
         </ListContainer>
       </ListItem>
