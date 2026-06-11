@@ -73,11 +73,11 @@ const Timeline = () => {
         lata
         <br />
         <br />
-        Front-End Software Developer oraz Mobile Application Engineer (3 lata komercyjnego doświadczenia)
+        Fullstack Software Developer oraz Mobile Application Engineer (ponad 4 lata komercyjnego doświadczenia)
         <br />
         <br />
         Zaczynałem od języka C/C++, potem języki JavaScript, Python, C#, Java.
-        Obecnie programuję głównie w technologiach Angular/React/Ionic.
+        Obecnie programuję głównie w technologiach Angular/React/Ionic/React Native.
         <br />
         <br />
         Pochodzę z Żywca i obecnie tam mieszkam, ale mogę dojeżdżać do biura w
@@ -100,7 +100,7 @@ const Timeline = () => {
         <GothicLink href='https://rbcpolska.pl' target='_blank'>
           tutaj
         </GothicLink>
-        ) (2022-obecnie)
+        ) (2022-2026)
         <br />
         <br />- Współtwórca i główny betatester modyfikacji gry "Gothic 2:
         Ucieczka" (podgląd{' '}
