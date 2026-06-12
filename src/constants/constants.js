@@ -1,4 +1,13 @@
 export const projects = [
+    {
+      title: 'Financial Analyzer',
+      description: "A web application designed to help users analyze financial data and gain insights into their spending, income, and investment performance. The platform provides intuitive visualizations, key financial metrics, and tools for tracking trends to support better financial decision-making.",
+      image: '/images/Financial-Analyzer.png',
+      tags: ['Ionic', 'Angular', 'Typescript', 'Firebase'],
+    source: 'https://financial-4nalyzer.web.app/home',
+    visit: 'https://github.com/MacieyTM/Financial-Analyzer',
+    id: 0,
+  },
   {
     title: 'TrackMania Website',
     description: "This project is a webpage presenting my favourite series of games from children - 'TrackMania'. By navigating through all the page you can see different versions of the game with their descriptions.",
@@ -6,7 +15,7 @@ export const projects = [
       tags: ['JavaScript', 'Bootstrap', 'Sass'],
     source: 'https://macieytm.github.io/TrackMania-Website',
     visit: 'https://github.com/MacieyTM/TrackMania-Website',
-    id: 0,
+    id: 1,
   },
   {
     title: 'Weather App',
@@ -15,7 +24,7 @@ export const projects = [
     tags: ['JavaScript', 'API'],
     source: 'https://macieytm.github.io/Weather-App',
     visit: 'https://github.com/MacieyTM/Weather-App',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Exchange Rate',
@@ -24,7 +33,7 @@ export const projects = [
       tags: ['JavaScript', 'API'],
     source: 'https://macieytm.github.io/Exchange-Rate',
     visit: 'https://github.com/MacieyTM/Exchange-Rate',
-    id: 2,
+    id: 3,
   },
   {
     title: 'My Restaurant',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['React', 'Firebase'],
     source: 'https://macieytm.github.io/My-Restaurant-v2',
     visit: 'https://github.com/MacieyTM/My-Restaurant-v2',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Great Quotes',
@@ -42,7 +51,7 @@ export const projects = [
       tags: ['React', 'React-Router', 'Firebase'],
     source: 'https://macieytm.github.io/Best-Quotes',
     visit: 'https://github.com/MacieyTM/Best-Quotes',
-    id: 4,
+    id: 5,
   },
   {
     title: 'Login Authentication',
@@ -51,7 +60,7 @@ export const projects = [
       tags: ['React', 'React-Router', 'Firebase'],
     source: 'https://macieytm.github.io/Login-Authentication',
     visit: 'https://github.com/MacieyTM/Login-Authentication',
-    id: 5,
+    id: 6,
   },
   {
     title: 'Photo Company',
@@ -60,7 +69,7 @@ export const projects = [
       tags: ['JavaScript', 'Bootstrap'],
     source: 'https://macieytm.github.io/Photo-Company',
     visit: 'https://github.com/MacieyTM/Photo-Company',
-    id: 6,
+    id: 7,
   },
   {
     title: 'Drink Search',
@@ -69,7 +78,7 @@ export const projects = [
       tags: ['JavaScript'],
     source: 'https://macieytm.github.io/Drink-Search',
     visit: 'https://github.com/MacieyTM/Drink-Search',
-    id: 7,
+    id: 8,
   },
   {
     title: 'TODO List',
@@ -78,7 +87,7 @@ export const projects = [
       tags: ['JavaScript'],
     source: 'https://macieytm.github.io/TODO-List',
     visit: 'https://github.com/MacieyTM/TODO-List',
-    id: 8,
+    id: 9,
   },
   {
     title: 'Stopwatch App',
@@ -87,7 +96,7 @@ export const projects = [
       tags: ['JavaScript'],
     source: 'https://macieytm.github.io/Stopwatch-App',
     visit: 'https://github.com/MacieyTM/Stopwatch-App',
-    id: 9,
+    id: 10,
   },
   {
     title: 'My Notes',
@@ -96,7 +105,7 @@ export const projects = [
       tags: ['JavaScript'],
     source: 'https://macieytm.github.io/My-Notes',
     visit: 'https://github.com/MacieyTM/My-Notes',
-    id: 10,
+    id: 11,
   },
   {
     title: 'Wallet App',
@@ -105,7 +114,7 @@ export const projects = [
       tags: ['JavaScript'],
     source: 'https://macieytm.github.io/Wallet-App',
     visit: 'https://github.com/MacieyTM/Wallet-App',
-    id: 11,
+    id: 12,
   },
   {
     title: 'Timer App',
@@ -114,7 +123,7 @@ export const projects = [
       tags: ['JavaScript'],
     source: 'https://macieytm.github.io/Timer-App',
     visit: 'https://github.com/MacieyTM/Timer-App',
-    id: 12,
+    id: 13,
   },
   {
     title: 'Diamond CMS',
@@ -123,7 +132,7 @@ export const projects = [
       tags: ['JavaScript', 'Bootstrap'],
     source: 'https://macieytm.github.io/Diamond-CMS',
     visit: 'https://github.com/MacieyTM/Diamond-CMS',
-    id: 13,
+    id: 14,
   },
   {
     title: 'Expenses Counter',
@@ -132,7 +141,7 @@ export const projects = [
       tags: ['JavaScript', 'React'],
     source: 'https://macieytm.github.io/Expenses-Counter',
     visit: 'https://github.com/MacieyTM/Expenses-Counter',
-    id: 14,
+    id: 15,
   },
   {
     title: 'Frost Company',
@@ -141,7 +150,7 @@ export const projects = [
       tags: ['JavaScript', 'Bootstrap'],
     source: 'https://macieytm.github.io/Frost-Company',
     visit: 'https://github.com/MacieyTM/Frost-Company',
-    id: 15,
+    id: 16,
   },
   {
     title: 'Bill Splitter',
@@ -150,7 +159,7 @@ export const projects = [
       tags: ['JavaScript'],
     source: 'https://macieytm.github.io/Bill-Splitter',
     visit: 'https://github.com/MacieyTM/Bill-Splitter',
-    id: 16,
+    id: 17,
   },
 ];
 
