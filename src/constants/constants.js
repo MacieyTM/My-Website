@@ -1,7 +1,7 @@
 export const projects = [
     {
       title: 'Financial Analyzer',
-      description: "An application that helps users analyze their financial spending, income and investment performance. It provides intuitive visualizations, key financial metrics and tools for tracking trends to support better financial decision-making.",
+      description: "An application that helps users analyze their financial spending, income, investment performance. It provides intuitive visualizations, key financial metrics, tools for tracking trends to support better financial decision-making.",
       image: '/images/Financial-Analyzer.png',
       tags: ['Ionic', 'Angular', 'Typescript', 'Firebase'],
     source: 'https://financial-4nalyzer.web.app/home',
